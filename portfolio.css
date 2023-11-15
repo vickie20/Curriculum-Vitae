@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; 
+}
+
+/*header {
+    background-color: #333; 
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    background-color: #555; 
+    padding: 1em;
+    text-align: center;
+}*/
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1em;
+    font-weight: bold;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff; /* White content background */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow for a professional look */
+}
+
+footer {
+    background-color: #333; /* Dark gray footer */
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+body {
+    background-image: url(placei/iridescence-macos-big-sur-macbook-pro-multicolor-dark-3840x2160-4036.jpg); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+li {
+    font-size: 15px;
+    font-family: arial;
+    
+}
+h3 {
+    font-family: time new roman;
+    font-style: italic;
+    text-decoration-line: underline 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.no-bullets {
+    list-style: none;
+}
+
+
